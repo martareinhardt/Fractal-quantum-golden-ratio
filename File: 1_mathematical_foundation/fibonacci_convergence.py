@@ -1,3 +1,11 @@
+# flake8: noqa
+import numpy as np
+
+
+# --- Setup ---
+# 1. Define the Golden Ratio (Phi)
+# ... (Cole o restante do código que eu te dei) .
+..
 import numpy as np
 
 
