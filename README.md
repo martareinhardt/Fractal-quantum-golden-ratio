@@ -8,14 +8,14 @@ This repository presents the mathematical and computational groundwork for a the
 
 We establish the Golden Ratio ($\Phi$) as the asymptotic limit of all iterative (fractal) growth processes.
 
-* **Code:** `1_mathematical_foundation/fibonacci_convergence.py`
+* **Code:** `File:1_mathematical_foundation/fibonacci_convergence.py`
 * **Concept:** The ratio $F(n)/F(n-1) \to \Phi$.
 
 ## 2. The Quantum Bridge: Eigenvalues and Symmetry
 
 This section connects the mathematical constant $\Phi$ to the measurable states (eigenvalues) of a linear dynamical system, crucial in quantum mechanical modeling.
 
-* **Code:** `2_quantum_symmetry/golden_eigenvalues.py`
+* **Code:** `File:2_quantum_symmetry/golden_eigenvalues.py`
 * **Result:** The eigenvalues ($\lambda$) of the Fibonacci transition matrix are precisely $\Phi$ and $-1/\Phi$. This suggests $\Phi$ defines the fundamental "resonant modes" of simple quantum systems.
 
 
