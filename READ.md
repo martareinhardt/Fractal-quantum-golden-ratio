@@ -14,4 +14,4 @@ Este projeto explora a conexão entre fractais, o número áureo (φ ≈ 1.618) 
 - Explorar simulações quânticas (ex.: usando Qiskit).
 
 ## Como contribuir?
-Por enquanto, é um projeto solo, mas aceito sugestões! Entre em contato via [insira seu e-mail ou Twitter/X].
+Por enquanto, é um projeto solo, mas aceito sugestões! Entre em contato via email[marta.silveira15@hotmail.com].
