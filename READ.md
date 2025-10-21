@@ -1,4 +1,4 @@
-# Fractal Quantum Golden Ratio
+#Fractal Quantum Golden Ratio
 
 ## O que é?
 Este projeto explora a conexão entre fractais, o número áureo (φ ≈ 1.618) e conceitos quânticos para entender padrões universais. A ideia é investigar se o golden ratio pode unificar fenômenos da física moderna e da cosmologia através de estruturas fractais.
